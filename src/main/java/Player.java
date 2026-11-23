@@ -1,4 +1,3 @@
-import zero.Key;
 import zero.Color;
 import zero.GameApp;
 
